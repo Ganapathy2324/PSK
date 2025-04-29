@@ -63,6 +63,6 @@ plt.show()
 ## OUTPUT WAVEFORM
 ![image](https://github.com/user-attachments/assets/2cc9aa3d-69d1-4ac5-aa54-cb02a9be18a2)
 ## GRAPH 
-
+![WhatsApp Image 2025-04-29 at 18 33 34_62d455f4](https://github.com/user-attachments/assets/a0fa54a8-18ff-4854-afbf-bf61f6e00a27)
 ## RESULT
   THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PYTHON
